@@ -2,13 +2,13 @@
   "testScores": {
     "From Scratch Tests": {
       "FrScTe1": 1,
-      "FrScTe2": 1,
+      "FrScTe2": 0,
       "FrScTe3": 1,
-      "FrScTe4": 1,
+      "FrScTe4": 0,
       "FrScTe5": 1,
-      "FrScTe6": 1,
-      "FrScTe7": 1,
-      "FrScTe8": 1
+      "FrScTe6": 0,
+      "FrScTe7": 0,
+      "FrScTe8": 0
     },
     "Debug Tests": {
       "DeTe1": 0,
@@ -56,8 +56,8 @@
     "Declarations to Arrow Tests The declarations have been converted to arrows": "DetoArTe1"
   },
   "humanReadable": {
-    "From Scratch Tests": "8/8",
-    "finalTestScore": "FINAL SCORE: 8/14",
+    "From Scratch Tests": "3/8",
+    "finalTestScore": "FINAL SCORE: 3/14",
     "Debug Tests": "0/4",
     "Explicit to Implicit Tests": "0/1",
     "Declarations to Arrow Tests": "0/1"
