@@ -96,6 +96,7 @@ Write a function `calculateArea` that takes two parameters: a number `width` and
 
 ```js
 calculateArea(5, 3)
+
 // 15
 calculateArea(10, 7)
 // 70
